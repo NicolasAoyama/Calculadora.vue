@@ -1,6 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <ComponentCalculadora msg="Fala corno"/>
+  <ComponentCalculadora msg="Calculador Vue"/>
 </template>
 
 <script>
